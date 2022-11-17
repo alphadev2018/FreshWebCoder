@@ -21,6 +21,7 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 <br />
 
 <h2>Li's Github Stats:</h2>
+
 ![Li's Github Stats](https://github-readme-stats.vercel.app/api?username=FreshWebCoder&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true&count_private=true&include_all_commits=true)
 
 <br />
