@@ -1,15 +1,25 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there, it's <a href="https://www.linkedin.com/in/xiaoguang-li-308596223/">Li</a>!</h1>
 
-> GitHub Profile Status
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FreshWebCoder&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FreshWebCoder&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="45.25%">
-</p>
+### It's very nice to meet you 🙌
 
-<br />
+Hello there, this is Xiaoguang Li, curious, avid learner, relentless debugger, excellent developer with hands on experience in Full-stack development.
+
+Experienced in a variety of languages and systems including but not limited to:
+- Rust
+- Golang
+- Node.js, Typescript
+- Ruby on Rails
+- Python
+- PHP
+- React.js, React Native
+
+Knowledge of Google's Penguin 4.0 algorithm and its updates, ranked over 50+ websites #1 on Google search. Utilizes best practices for optimizing code and adheres to SOLID principles. Self-starter, great with people, responsible, creative, dependable, proficient and timely in completing projects.
+
+You can learn more about me and my Skills, Education, Work Experience, Professional Recommendations, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/xiaoguang-li-308596223/).
+
+![Li's Github Stats](https://github-readme-stats.vercel.app/api?username=FreshWebCoder&theme=flag-india&count_private=true&show_icons=true&line_height=25&hide=prs,issues,contribs&include_all_commits=true)
 
 > GitHub Activity Graph
-<!-- https://github.com/K-0817/github-readme-activity-graph -->
-<a href="https://github.com/K-0817/K-0817"><img alt="Senior Dev's activity graph" src="https://activity-graph.herokuapp.com/graph?username=FreshWebCoder&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/FreshWebCoder"><img alt="Li's activity graph" src="https://activity-graph.herokuapp.com/graph?username=FreshWebCoder&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
