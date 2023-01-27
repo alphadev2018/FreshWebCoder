@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there, it's <!--<a href="https://www.linkedin.com/in/xiaoguang-li-308596223/">Li</a>--> Li!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there! <!--it's <a href="https://www.linkedin.com/in/xiaoguang-li-308596223/">Li</a>--></h1>
 
 ### It's very nice to meet you 🙌
 
-Hello there, this is Li, curious, avid learner, relentless debugger, excellent developer with hands on experience in Full-stack development.
+Hello there, I am curious, avid learner, relentless debugger, excellent developer with hands on experience in Full-stack development.
 
 Experienced in a variety of languages and systems including but not limited to:
 - Rust
