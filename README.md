@@ -20,13 +20,13 @@ You can learn more about me and my Skills, Education, Work Experience, Professio
 
 <br />
 
-<h2>Li's Github Stats:</h2>
+<h2>Github Stats:</h2>
 
 ![Li's Github Stats](https://github-readme-stats.vercel.app/api?username=FreshWebCoder&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true&count_private=true&include_all_commits=true)
 
 <br />
 
-<h2>Li's GitHub Activity Graph:</h2>
+<h2>GitHub Activity Graph:</h2>
 <a href="https://github.com/FreshWebCoder"><img alt="Li's activity graph" src="https://activity-graph.herokuapp.com/graph?username=FreshWebCoder&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <br />
