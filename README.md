@@ -5,13 +5,14 @@
 Hello there, I am curious, avid learner, relentless debugger, excellent developer with hands on experience in Full-stack development.
 
 Experienced in a variety of languages and systems including but not limited to:
-- Rust
-- Golang
-- Node.js, Typescript
-- Ruby on Rails
-- Python
-- PHP
-- React.js, React Native
+- Backend
+  - Python
+  - Golang
+  - Node.js, Typescript
+- Frontend
+  - NextJS
+  - ReactJS, React Native
+  - Flutter
 
 Knowledge of Google's Penguin 4.0 algorithm and its updates, ranked over 50+ websites #1 on Google search. Utilizes best practices for optimizing code and adheres to SOLID principles. Self-starter, great with people, responsible, creative, dependable, proficient and timely in completing projects.
 <!--
